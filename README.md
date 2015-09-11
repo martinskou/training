@@ -1,0 +1,2 @@
+# training
+Diverse trænings kode
